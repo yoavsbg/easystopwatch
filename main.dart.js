@@ -33712,7 +33712,7 @@ return A.a8(A.KD(a),$async$ii)
 case 2:return A.a1(null,r)}})
 return A.a2($async$ii,r)},
 M(a,b){var s=this,r=null,q=t.p
-return A.Mi(A.MI(A.b([B.H8,B.rx,A.nj(A.b([A.J0(A.mB("assets/facebook.png"),B.cx,new A.P1(s)),A.J0(A.mB("assets/Twitter.png"),B.cx,new A.P2(s)),A.J0(A.mB("assets/Medium.png"),B.cx,new A.P3(s))],q),B.dl,B.aQ),A.nj(A.b([A.alg(!1,B.H9,B.A,r,r,r,r,r,new A.P4(s),r)],q),B.dl,B.aQ)],q),B.e5,B.dl),r,r)}}
+return A.Mi(A.MI(A.b([B.H8,B.rx,A.nj(A.b([A.J0(A.mB("assets/Facebook.png"),B.cx,new A.P1(s)),A.J0(A.mB("assets/Twitter.png"),B.cx,new A.P2(s)),A.J0(A.mB("assets/Medium.png"),B.cx,new A.P3(s))],q),B.dl,B.aQ),A.nj(A.b([A.alg(!1,B.H9,B.A,r,r,r,r,r,new A.P4(s),r)],q),B.dl,B.aQ)],q),B.e5,B.dl),r,r)}}
 A.P1.prototype={
 $0(){this.a.ii("https://www.facebook.com/easystopwatchapp")},
 $S:0}
