@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { logEvent } from 'firebase/analytics';
-import { analytics } from './firebase-config';
+import { analytics } from '../config/firebase';
 
 const FAQItem = ({ question, answer }) => {
   const [isOpen, setIsOpen] = useState(false);
